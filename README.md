@@ -19,3 +19,5 @@ Proyek ini dibangun menggunakan teknologi-teknologi berikut:
 HTML: Untuk struktur dan konten halaman.
 CSS: Untuk styling dan tampilan visual.
 JavaScript: Untuk fungsionalitas interaktif.
+
+Link Deploy : https://nashwaff.github.io/Mission1-241511023-NashwaFathiaFasha/
